@@ -106,6 +106,7 @@ class ComposerStaticInit99be65a7d59690cdb4d571c6d0ec2584
             'Prophecy\\' => 9,
             'PhpParser\\' => 10,
             'PhpOption\\' => 10,
+            'Pallares\\LaravelNuxt\\' => 21,
         ),
         'O' => 
         array (
@@ -359,6 +360,10 @@ class ComposerStaticInit99be65a7d59690cdb4d571c6d0ec2584
         'PhpOption\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
+        ),
+        'Pallares\\LaravelNuxt\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/pallares/laravel-nuxt/src',
         ),
         'Opis\\Closure\\' => 
         array (
@@ -3312,6 +3317,8 @@ class ComposerStaticInit99be65a7d59690cdb4d571c6d0ec2584
         'PHPUnit\\Util\\Xml\\SuccessfulSchemaDetectionResult' => __DIR__ . '/..' . '/phpunit/phpunit/src/Util/Xml/SuccessfulSchemaDetectionResult.php',
         'PHPUnit\\Util\\Xml\\ValidationResult' => __DIR__ . '/..' . '/phpunit/phpunit/src/Util/Xml/ValidationResult.php',
         'PHPUnit\\Util\\Xml\\Validator' => __DIR__ . '/..' . '/phpunit/phpunit/src/Util/Xml/Validator.php',
+        'Pallares\\LaravelNuxt\\Controllers\\NuxtController' => __DIR__ . '/..' . '/pallares/laravel-nuxt/src/Controllers/NuxtController.php',
+        'Pallares\\LaravelNuxt\\LaravelNuxtServiceProvider' => __DIR__ . '/..' . '/pallares/laravel-nuxt/src/LaravelNuxtServiceProvider.php',
         'PharIo\\Manifest\\Application' => __DIR__ . '/..' . '/phar-io/manifest/src/values/Application.php',
         'PharIo\\Manifest\\ApplicationName' => __DIR__ . '/..' . '/phar-io/manifest/src/values/ApplicationName.php',
         'PharIo\\Manifest\\Author' => __DIR__ . '/..' . '/phar-io/manifest/src/values/Author.php',

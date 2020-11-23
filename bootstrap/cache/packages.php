@@ -45,4 +45,11 @@
       0 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
     ),
   ),
+  'pallares/laravel-nuxt' => 
+  array (
+    'providers' => 
+    array (
+      0 => 'Pallares\\LaravelNuxt\\LaravelNuxtServiceProvider',
+    ),
+  ),
 );
